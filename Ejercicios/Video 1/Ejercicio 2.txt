@@ -1,0 +1,63 @@
+-- Video: Video 1.mp4
+-- Link al video: https://www.youtube.com/watch?v=eTo43qkijTo
+
+-- El objetivo de este ejercicio es crear una estructura de directorios para luego trabajar con él 
+-- en el siguiente ejercicio.
+-- A continuación se detalla la estructura a crear donde '|--' representa un directorio de nivel superior 
+-- y '|  |--' un directorio de nivel inferior.
+
+|-- ~$:
+|	|-- Empleados
+|	|	|-- Empleados actuales
+|	|	|	|-- Turno matutino
+|	|	|	|-- Turno vespertino
+|	|	|	|-- Turno nocturno
+|	|	|-- Ex empleados
+|	|	|	|-- 1991 al 2000
+|	|	|	|-- 2001 al 2010
+|	|	|	|-- 2011 al 2020
+|	|	|	|-- 2021 al 2030
+|	|	|-- Aplicantes
+|	|	|	|-- Pendientes
+|	|	|	|-- Aceptados
+|	|	|	|-- Rechazados
+|	|	|	|-- Histórico
+|	|	|	|	|-- Rechazados
+|	|	|	|	|-- Aceptados
+
+-- 1
+-- Abre un terminal y posicionate en el directorio principal de tu usuario.
+-- Crea un directorio llamado Empleados.
+
+-- 2
+-- Muévete al directorio Empleados.
+## Para crear directorios de dos o más palabras que contengan un espacio debes encerrar el nombre completo entre comillas simples o dobles.
+## Por ejemplo, para crear el directorio Empleados actuales debes escribir mkdir "Empleados Actuales" o 'Empleados Actuales'.
+## De lo contario, si escribes mkdir Empleados Actuales estarás creando dos directorios, uno llamado Empleados y otro llamado Actuales.
+-- Dentro del directorio Empleados crea tres directorios llamados "Empleados actuales", "Ex empleados" y "Aplicantes".
+
+-- 3
+-- Muévete al directorio Empleados actuales.
+## Puedes crear varios directorios en una sola instrucción indicando todos los nombres luego del comando mkdir, separados por un espacio.
+## Por ejemplo: mkdir "Turno matutino" "Turno verspertino" "Turno nocturno".
+-- Crea tres directorios llamados "Turno matutino", "Turno vespertino" y "Turno nocturno".
+
+-- 4
+-- Muévete al directorio Empleados.
+-- Crea un directorio llamado "Ex empleados".
+
+-- 5
+-- Muévete al directorio Ex empleados.
+-- Crea cuatro directorios llamados: "1991 al 2000", "2001 al 2010", "2011 al 2020" y "2021 al 2030".
+
+-- 6
+-- Muévete al directorio Empleados.
+-- Crea un directorio llamado "Aplicantes".
+
+-- 7
+-- Muévete al directorio Aplicantes.
+-- Crea cuatro directorios llamados: "Pendientes", "Aceptados", "Rechazados" e "Histórico".
+
+-- 8
+-- Muévete al directorio Histórico.
+-- Crea dos directorios llamados: "Rechazados" y "Aceptados".

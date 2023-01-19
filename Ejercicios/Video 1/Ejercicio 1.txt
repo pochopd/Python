@@ -1,0 +1,74 @@
+-- Video: Video 1.mp4
+-- Link al video: https://www.youtube.com/watch?v=eTo43qkijTo
+
+-- 1
+-- Abre un terminal y posicionate en el directorio principal de tu usuario. (usuario@equipo:~$)
+-- Crea un directorio llamado 'Personas'.
+-- Muévete al directorio Personas.
+-- Crea seis directorios llamados 'persona1', 'persona2', 'persona3', 'persona4', 'persona5' y 'persona6'.
+-- Verifica la correcta ejecución de los comandos utlizando el comando 'ls'.
+
+-- 2
+-- Crea un archivo llamado 'molde.txt'.
+-- Verifica la correcta ejecución.
+
+-- 3
+-- Renombra el archivo molde.txt con el nombre 'molde_persona.txt' usando el comando 'mv'.
+-- Verifica la ejecución.
+
+-- 4
+-- Copia el archivo molde_persona.txt en el mismo directorio con el nombre 'molde_datos_persona.txt' usando el comando 'cp'.
+-- Elimina el archivo molde_persona.txt.
+-- Verifica la ejecución.
+
+-- 5
+-- Copia el archivo molde_datos_persona.txt al directorio persona1 con el mismo nombre.
+-- Muévete al directorio persona1.
+-- Verifica la ejecución.
+
+-- 6
+-- Renombra el archivo molde_datos_persona.txt con el nombre 'persona1.txt'.
+-- Verifica la ejecución.
+-- Copia el archivo persona1.txt al directorio Personas con el mismo nombre.
+-- Muévete al directorio Personas.
+-- Verifica la ejecución.
+
+-- 7
+-- Renombra el archivo persona1.txt con el nombre 'persona2.txt'.
+-- Mueve el archivo persona2.txt al directorio persona2 usando el comando 'mv'.
+-- Muevete al directorio persona2.
+-- Verifica la ejecución.
+
+-- 8
+-- Muévete al directorio Personas.
+-- Verifica el directorio en el que te encuentras usando el comando 'pwd'.
+-- Copia el archivo molde_datos_persona.txt al directorio persona3 con el nombre 'persona3.txt'.
+-- Muévete al directorio persona3.
+-- Verifica la ejecución.
+
+-- 9
+-- Muévete al directorio Personas.
+-- Verifica el directorio.
+-- Copia el archivo molde_datos_persona.txt en los directorios persona4 y persona5 con el nombre 'persona4.txt' y 'persona5.txt' respectivamente.
+-- Muévete a cada uno de los directorios anteriormente mencionados y verifica la correcta ejecución.
+
+-- 10
+-- Posiciónate en el directorio Personas.
+-- Elimina los directorios persona5 y persona6 con el parámetro -r.
+-- Verifica la ejecución.
+
+-- Una vez finalizado el ejercicio, si has seguido todos los pasos correctamente, la estructura de directorios debe ser la siguiente:
+
+|-- ~$:
+|	|-- Personas
+|	|	|-- molde_datos_persona.txt
+|	|	|-- persona1
+|	|	|	|-- persona1.txt
+|	|	|-- persona2
+|	|	|	|-- persona2.txt
+|	|	|-- persona3
+|	|	|	|-- persona3.txt
+|	|	|-- persona4
+|	|	|	|-- persona4.txt
+		
+-- Donde '|--' representa un directorio de nivel superior y '|  |--' un directorio de nivel inferior.

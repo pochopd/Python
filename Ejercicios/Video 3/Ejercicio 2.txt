@@ -1,0 +1,33 @@
+-- Video: Video 3.mp4
+-- Link al video: https://www.youtube.com/watch?v=u4I9PqhqCo8
+
+-- 1
+-- Ejecuta el IDLE de Python.
+
+-- 2
+-- Declara una variable llamada 'marca' y asígnale el valor 'Cannon'.
+## La respuesta debe estar vacía.
+
+-- 3
+-- Declara una variable llamada 'cantidad' y asígnale el valor '25'.
+## La respuesta debe estar vacía.
+
+-- 4
+-- Declara una variable llamada 'largo' y asígnale el valor '2.17'.
+## La respuesta debe estar vacía.
+
+-- 5
+-- Declara una variable llamada 'ancho' y asígnale el valor '1.90'.
+## La respuesta debe estar vacía.
+
+-- 6
+-- Declara una variable llamada 'blanco' y asígnale el valor 'True'.
+## La respuesta debe estar vacía.
+
+-- 7
+-- Declara una variable llamada 'negro' y asígnale el valor 'False'.
+## La respuesta debe estar vacía.
+
+-- 8
+-- Cierra el IDLE de Python con la instrucción 'exit()'.
+## La consola debe posicionarte nuevamente en el directorio raíz de tu usuario.

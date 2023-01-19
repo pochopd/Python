@@ -1,0 +1,24 @@
+-- Video: Video 3.mp4
+-- Link al video: https://www.youtube.com/watch?v=u4I9PqhqCo8
+
+-- 1
+-- Ejecuta el IDLE de Python.
+
+-- 2
+-- Llama a la función 'type()' con el valor 'Un poco de texto' como parámetro.
+## La respuesta debe ser <class 'str'>.
+
+-- 3
+-- Llama a la función 'type()' con el valor '10'.
+## La respuesta debe ser <class 'int'>.
+
+-- 4
+-- Llama a la función 'type()' con el valor '3.8'.
+## La respuesta debe ser <class 'float'>.
+
+-- 5
+-- Llama a la función 'type()' con el valor 'True'.
+## La respuesta debe ser <class 'bool'>.
+
+-- Cierra el IDLE de Python con la instrucción 'exit()'.
+## La consola debe posicionarte nuevamente en el directorio raíz de tu usuario.

@@ -1,0 +1,18 @@
+-- Video: Video 2.mp4
+-- Link al video: https://www.youtube.com/watch?v=yppT6GPZMyo
+
+-- 1
+-- Ejecuta el IDLE de python con la instrucción 'python3'.
+
+-- 2
+-- Escribe un comentario con el texto 'Esto es un comentario en Python'.
+## La respuesta debe estar vacía.
+## Recuerda que los comentarios son líneas de código que Python ignorará.
+
+-- 3
+-- Escribe un comentario con el texto 'Esta línea de código no se ejecutará'.
+## La respuesta debe estar vacía.
+
+-- 4
+-- Cierra el IDLE de Python con la instrucción 'exit()'.
+## La consola debe posicionarte nuevamente en el directorio raíz de tu usuario.

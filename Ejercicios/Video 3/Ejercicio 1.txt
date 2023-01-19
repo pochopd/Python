@@ -1,0 +1,37 @@
+-- Video: Video 3.mp4
+-- Link al video: https://www.youtube.com/watch?v=u4I9PqhqCo8
+
+-- 1
+-- Ejecuta el IDLE de Python.
+
+-- 2
+-- Suma los números cinco y diez.
+## La respuesta debe ser 15.
+
+-- 3
+-- Resta el número siete al número quince.
+## La respueta debe ser 8.
+
+-- 4
+-- Multiplica el número tres por el número seis.
+## La respuesta debe ser 18.
+
+-- 5
+-- Divide el número nueve por el número tres.
+## La respuesta debe ser 3.0.
+
+-- 6
+-- Suma los números cuatro y diez y resta el número siete.
+## La respuesta debe ser 7.
+
+-- 7
+-- Multiplica el número cinco por el número tres y divide por el número cinco.
+## La respuesta debe ser 3.0.
+
+-- 8
+-- Resta el número diecisiete al número setenta y dos y suma el número cinco.
+## La respuesta debe ser 60.
+
+-- 9
+-- Cierra el IDLE de Python con la instrucción 'exit()'.
+## La consola debe posicionarte nuevamente en el directorio raíz de tu usuario.

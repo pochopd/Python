@@ -1,0 +1,25 @@
+-- Video: Video 3.mp4
+-- Link al video: https://www.youtube.com/watch?v=u4I9PqhqCo8
+
+-- 1
+-- Ejecuta el IDLE de Python.
+
+-- 2
+-- Declara una variable llamada 'numero1' y asígnale el valor '10'.
+## La respuesta debe estar vacía.
+
+-- 3
+-- Declara una variable llamada 'numero2' y asígnale el valor '20'.
+## La respuesta debe estar vacía.
+
+-- 4
+-- Escribe una sentencia 'if else' para comprobar si numero1 es mayor que numero2.
+-- Si numero1 es mayor que numero2 escribe en el cuerpo de la sentencia 'if' una función 'print()'
+-- con el siguiente texto como parámetro 'Número 1 es mayor que número 2.'.
+-- Si numero2 es mayor que numero1 escribe en el cuerpo de la sentencia 'else' una función 'print()'
+-- con el siguiente texto como parámetro 'Número 2 es mayor que número 1.'.
+## La respuesta debe ser Número 2 es mayor que número 1.
+
+-- 5
+-- Cierra el IDLE de Python con la instrucción 'exit()'.
+## La consola debe posicionarte nuevamente en el directorio raíz de tu usuario.

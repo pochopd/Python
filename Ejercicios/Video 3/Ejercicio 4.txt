@@ -1,0 +1,33 @@
+-- Video: Video 3.mp4
+-- Link al video: https://www.youtube.com/watch?v=u4I9PqhqCo8
+
+-- 1
+-- Ejecuta el IDLE de Python.
+
+-- 2
+-- Declara una variable llamada 'miCadena' y asígnale el valor 'Soy texto en una variable'.
+## La respuesta debe estar vacía.
+
+-- 3
+-- Llama a la función 'type()' con la variable miCadena como parámetro.
+## La respuesta debe ser <class 'str'>
+
+-- 4
+-- Declara una variable llamada 'miEntero' y asígnale el valor '125'.
+## La respuesta debe estar vacía.
+
+-- 5
+-- Llama a la función 'type()' con la variable miEntero como parámetro.
+## La respuesta debe ser <class 'int'>
+
+-- 6
+-- Declara una variable llamada 'miBooleano' y asígnale el valor 'False'.
+## La respuesta debe estar vacía.
+
+-- 7
+-- Llama a la función 'type()' con la variable miBooleano como parámetro.
+## La respuesta debe ser <class 'bool'>
+
+-- 8
+-- Cierra el IDLE de Python con la instrucción 'exit()'.
+## La consola debe posicionarte nuevamente en el directorio raíz de tu usuario.

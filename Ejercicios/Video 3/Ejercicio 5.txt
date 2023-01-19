@@ -1,0 +1,33 @@
+-- Video: Video 3.mp4
+-- Link al video: https://www.youtube.com/watch?v=u4I9PqhqCo8
+
+-- 1
+-- Ejecuta el IDLE de Python.
+
+-- 2
+-- Declara una variable llamada 'numero1' y asígnale el valor '10'.
+## La respuesta debe estar vacía.
+
+-- 3
+-- Declara una variable llamada 'numero2' y asígnale el valor '20'.
+## La respuesta debe estar vacía.
+
+-- 4
+-- Ejecuta la instrucción 'numero1 > numero2'.
+## La respuesta será False ya que numero1 no es más grande que numero2.
+
+-- 5
+-- Ejecuta la instrucción 'numero1 < numero2'.
+## La respuesta será True ya que numero1 es más pequeño que numero2.
+
+-- 6
+-- Ejecuta la instrucción 'numero1 == numero2'.
+## La respuesta será False ya que numero1 no es igual a numero2.
+
+-- 7
+-- Ejecuta la instrucción 'numero1 != numero2'.
+## La respuesta será True ya que numero1 es distinto que numero2.
+
+-- 9
+-- Cierra el IDLE de Python con la instrucción 'exit()'.
+## La consola debe posicionarte nuevamente en el directorio raíz de tu usuario.

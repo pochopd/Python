@@ -1,0 +1,31 @@
+-- Video: Video 2.mp4
+-- Link al video: https://www.youtube.com/watch?v=yppT6GPZMyo
+
+-- 1
+-- Abre una terminal y ejecuta la instrucción 'python3 -V'.
+## La respuesta debe ser Python seguido del número de versión instalado.
+## Por ejemplo: Python 3.10.6.
+
+-- 2
+-- Ejecuta el IDLE de python con la instrucción 'python3'.
+## La respuesta debe ser:
+## Python 3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0] on linux
+## Type "help", "copyright", "credits" or "license" for more information.
+## >>> 
+-- Una vez aquí, podrás dar instrucciones al intérprete Python.
+
+-- 3
+-- Utiliza la función 'print()' para mostrar el texto 'Hola Mundo Python'.
+## La respuesta debe ser Hola Mundo Python.
+## Recuerda que los textos (string) dentro de la función print() deben estar encerrados
+## entre comillas dobles o simples.
+
+-- 4
+-- Utiliza la funcion 'print()' para mostrar el valor '10'.
+## La respuesta debe ser 10.
+## Recuerta que los números dentro de la función print() NO deben estar encerrados
+## entre comillas dobles o simples, de lo contrario serán tratados como texto (string).
+
+-- 5
+-- Cierra el IDLE de Python con la instrucción 'exit()'.
+## La consola debe posicionarte nuevamente en el directorio raíz de tu usuario.
