@@ -3,7 +3,7 @@
 # Python
 Files related to Python.
 
-# Programas necesarios para correr los ejercicios
+# Programs needed to run the exercises
 To run these exercises it is necessary to have python3 and an IDE, preferably 'Visual Studio Code'
 
 To check if you have python3 installed open a terminal and run 'python3 -V'
@@ -17,7 +17,7 @@ To install python3 open a terminal and run:
 then run:
 'sudo apt install python3'
 
-# Carpeta 'Ejercicios'
+# Folder 'Ejercicios'
 In this directory you will find several folders. These folders correspond to a certain video tutorial.
 
 Inside each folder you will find exercises related to that video.
