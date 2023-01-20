@@ -4,7 +4,7 @@
 ## 1
 # Utiliza la función "str()" para que la suma de numero1 y numero2 sea una cadena de texto.
 # Ejecuta el ejercicio.
-# Las respuestas deben ser
+# Las respuestas deben ser:
 # 55.
 # <class 'str'>.
 

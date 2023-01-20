@@ -1,0 +1,91 @@
+-- Video: Video 1.mp4
+-- Link al video: https://www.youtube.com/watch?v=eTo43qkijTo
+
+-- El objetivo de este ejercicio es crear varios archivos de texto con los que trabajaremos en el ejercicio siguiente.
+-- A continuación se detalla la estructura de directorios creada en el ejercicio anterior a modo de referencia.
+
+|-- ~$:
+|	|-- Empleados
+|	|	|-- Empleados actuales
+|	|	|	|-- Turno matutino
+|	|	|	|-- Turno vespertino
+|	|	|	|-- Turno nocturno
+|	|	|-- Ex empleados
+|	|	|	|-- 2011 al 2020
+|	|	|	|-- 2021 al 2030
+|	|	|-- Aplicantes
+|	|	|	|-- Pendientes
+|	|	|	|-- Aceptados
+|	|	|	|-- Rechazados
+|	|	|	|-- Histórico
+|	|	|	|	|-- Rechazados
+|	|	|	|	|-- Aceptados
+
+-- 1
+-- Abre un terminal y posicionate en el directorio Pendientes.
+-- Crea cinco archivos con los siguientes nombres: 'Alejandro_Moro.txt', 'Justo_Zabala.txt', 'Irene_Lin.txt',
+-- 'Mariana_Trillo.txt', 'Juan_Mansilla.txt'.
+
+-- 2
+-- Muévete al directorio 2011 al 2020.
+-- Crea tres archivos con los siguientes nombres: 'Uxia_Herrera.txt', 'Elisenda_Castells.txt', 'Tamara_Sousa.txt'.
+
+-- 3
+-- Muévete al directorio 2021 al 2030.
+-- Crea seis archivos con los siguientes nombres: 'Casimiro_Vaquero.txt', 'Felix_Palacios.txt', 'Avelino_Urbano.txt',
+-- 'Candelaria_Zabala.txt', 'Teodoro_Quiroga.txt' y 'Paulina_Perez.txt'.
+
+-- 4
+-- Muévete al directorio Turno matutino.
+-- Crea dos archivos con los siguientes nombres: 'Paula_Garriga.txt' y 'Paulo_Estevez.txt'.
+
+-- 5
+-- Muévete al directorio Turno vespertino.
+-- Crea tres archivos con los siguientes nombres: 'Antonio_Calero.txt', 'Elizabeth_Gonzalo.txt' y 'Julian_Orellana.txt'.
+
+-- 6
+-- Muévete al directorio Rechazados bajo Histórico.
+-- Crea cuatro archivos con los siguientes nombres: 'Mariano_Barea.txt', 'Inocencia_Mesa.txt', 'Antonio_Cabrera.txt'
+--  y 'Aylen_Olivera.txt'.
+
+-- Tu estructura debe ser así:
+
+|-- ~$:
+|	|-- Empleados
+|	|	|-- Empleados actuales
+|	|	|	|-- Turno matutino
+|	|	|	|   |Paula_Garriga.txt
+|	|	|	|   |Paulo_Estevez.txt
+|	|	|	|-- Turno vespertino
+|	|	|	|   |Antonio_Calero.txt
+|	|	|	|   |Elizabeth_Gonzalo.txt
+|	|	|	|   |Julian_Orellana.txt
+|	|	|	|-- Turno nocturno
+|	|	|-- Ex empleados
+|	|	|	|-- 2011 al 2020
+|   |   |   |   |Uxia_Herrera.txt
+|   |   |   |   |Elisenda_Castells.txt
+|   |   |   |   |Tamara_Sousa.txt
+|	|	|	|-- 2021 al 2030
+|   |   |   |   |Casimiro_Vaquero.txt
+|   |   |   |   |Felix_Palacios.txt
+|   |   |   |   |Avelino_Urbano.txt
+|   |   |   |   |Candelaria_Zabala.txt
+|   |   |   |   |Teodoro_Quiroga.txt
+|   |   |   |   |Paulina_Perez.txt
+|	|	|-- Aplicantes
+|	|	|	|-- Pendientes
+|	|	|	|   |Alejandro_Moro.txt
+|	|	|	|   |Justo_Zabala.txt
+|	|	|	|   |Irene_Lin.txt
+|	|	|	|   |Mariana_Trillo.txt
+|	|	|	|   |Juan_Mansilla.txt
+|	|	|	|-- Aceptados
+|	|	|	|-- Rechazados
+|	|	|	|-- Histórico
+|	|	|	|	|-- Rechazados
+|   |   |   |   |   |Mariano_Barea.txt
+|   |   |   |   |   |Inocencia_Mesa.txt
+|   |   |   |   |   |Antonio_Cabrera.txt
+|   |   |   |   |   |Aylen_Olivera.txt
+|	|	|	|	|-- Aceptados

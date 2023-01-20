@@ -4,7 +4,7 @@
 ## 1
 # Modifica la clase 'Moto()' para que herede las propiedades y métodos de la clase 'Vehiculos()'.
 # Ejecuta el ejercicio.
-# Las respuestas deben ser
+# Las respuestas deben ser:
 # Marca: Suzuki
 # Modelo: Gn
 # En marcha: False

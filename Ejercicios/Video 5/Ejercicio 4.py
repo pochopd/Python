@@ -5,7 +5,7 @@
 # Declara una función llamada 'sumoNumeros()' que reciba dos variables por parámetros: numero1 y numero2.
 # En el cuerpo de la función retorna la suma de ambos parámetros.
 # Ejecuta el ejercicio utilizando la instrucción correspondiente.
-# La respuestas deben ser
+# La respuestas deben ser:
 # 95
 # 20
 # 30

@@ -13,8 +13,6 @@
 |	|	|	|-- Turno vespertino
 |	|	|	|-- Turno nocturno
 |	|	|-- Ex empleados
-|	|	|	|-- 1991 al 2000
-|	|	|	|-- 2001 al 2010
 |	|	|	|-- 2011 al 2020
 |	|	|	|-- 2021 al 2030
 |	|	|-- Aplicantes
@@ -48,7 +46,7 @@
 
 -- 5
 -- Muévete al directorio Ex empleados.
--- Crea cuatro directorios llamados: "1991 al 2000", "2001 al 2010", "2011 al 2020" y "2021 al 2030".
+-- Crea dos directorios llamados: "2011 al 2020" y "2021 al 2030".
 
 -- 6
 -- Muévete al directorio Empleados.

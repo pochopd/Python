@@ -1,17 +1,31 @@
 ## ENGLISH
 
 # Python
-Files related with Python.
+Files related to Python.
 
-# Folder 'Ejercicios'
-This folder contains several folders where you can find various exercises related with programming in Python.
+# Programas necesarios para correr los ejercicios
+To run these exercises it is necessary to have python3 and an IDE, preferably 'Visual Studio Code'
 
-Each folder corresponds to a video.
+To check if you have python3 installed open a terminal and run 'python3 -V'
 
-Inside each exercise you will find a link to the corresponding Youtube video.
+To install Visual Studio Code visit:
+https://code.visualstudio.com/Download
+and select your operating system.
 
-If you want to have the videos locally in your computer for training offline you can download these
-from this link: https://drive.google.com/drive/folders/1eH5_EJ_lX3PeVAiUwomhaymdqig03ufk
+To install python3 open a terminal and run:
+'sudo apt update'
+then run:
+'sudo apt install python3'
+
+# Carpeta 'Ejercicios'
+In this directory you will find several folders. These folders correspond to a certain video tutorial.
+
+Inside each folder you will find exercises related to that video.
+
+In the first lines of each exercise you will find a Youtube link and the name of the video that corresponds to that exercise.
+
+If you want to practice offline you can download the videos from the following link:
+https://drive.google.com/drive/folders/1eH5_EJ_lX3PeVAiUwomhaymdqig03ufk
 
 ## ESPAÑOL
 

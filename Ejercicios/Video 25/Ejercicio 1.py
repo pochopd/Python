@@ -9,7 +9,7 @@
 # Llama al método 'estado' de persona1.
 # Llama al método 'estado' de persona2.
 # Ejecuta el ejercicio.
-# Las respuestas deben ser
+# Las respuestas deben ser:
 # Hola! Buenas tardes.
 # True
 # False

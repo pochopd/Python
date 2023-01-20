@@ -7,7 +7,7 @@
 # Llama a la función 'buenasTardes'.
 # Llama a la función 'buenasNoches'.
 # Ejecuta el ejercicio.
-# Las respuestas deben ser
+# Las respuestas deben ser:
 # Buenos días!
 # Buenas tardes!
 # Buenas noches!

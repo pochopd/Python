@@ -1,0 +1,65 @@
+-- Video: Video 1.mp4
+-- Link al video: https://www.youtube.com/watch?v=eTo43qkijTo
+
+-- En este ejercicio imaginaremos que nos contratan como encargados de mantener un registro de empleados para una empresa
+-- farmacéutica.
+
+-- Esta empresa tiene una línea de producción de medicamentos que opera 24 horas al día, por lo que cuenta con un
+-- plantel de empleados que distribuye en tres turnos: matutino, verspertino y nocturno.
+
+-- Recientemente Felix Palacios, que se desempeñaba como operario en el turno nocturno, se jubiló.
+
+-- Así mismo Paulina Perez, quien trabajaba junto a Felix, decidió renunciar. En este momento la línea nocturna
+-- quedó acéfala.
+
+-- Desde recursos humanos abrieron las postulaciones para suplir uno de estos puestos y trasladaron a
+-- Antonio Calero del turno verspertino al turno nocturno.
+
+-- Tu tarea es plasmar los acontecimientos en el registro de modo que puedan verse reflejadas las deciciones de
+-- los directivos de la compañía. (mover, copiar, eliminar o editar los archivos de los empleados y aplicantes)
+
+-- En este caso, Felix Palacios y Paulina Perez ya se encuentran en el registro de ex empleados, por lo que resta
+-- colocar a Antonio Calero en el turno correspodiente.
+
+*********************************************************************
+-- Una vez finalizado el ejercicio la estructura es la siguiente:
+|-- ~$:
+|	|-- Empleados
+|	|	|-- Empleados actuales
+|	|	|	|-- Turno matutino
+|	|	|	|   |Paula_Garriga.txt
+|	|	|	|   |Paulo_Estevez.txt
+|	|	|	|-- Turno vespertino
+|	|	|	|   |Elizabeth_Gonzalo.txt
+|	|	|	|   |Julian_Orellana.txt
+|	|	|	|-- Turno nocturno
+|	|	|	|   |Antonio_Calero.txt
+|	|	|-- Ex empleados
+|	|	|	|-- 2011 al 2020
+|   |   |   |   |Uxia_Herrera.txt
+|   |   |   |   |Elisenda_Castells.txt
+|   |   |   |   |Tamara_Sousa.txt
+|	|	|	|-- 2021 al 2030
+|   |   |   |   |Casimiro_Vaquero.txt
+|   |   |   |   |Felix_Palacios.txt
+|   |   |   |   |Avelino_Urbano.txt
+|   |   |   |   |Candelaria_Zabala.txt
+|   |   |   |   |Teodoro_Quiroga.txt
+|   |   |   |   |Paulina_Perez.txt
+|	|	|-- Aplicantes
+|	|	|	|-- Pendientes
+|	|	|	|   |Alejandro_Moro.txt
+|	|	|	|   |Justo_Zabala.txt
+|	|	|	|   |Irene_Lin.txt
+|	|	|	|   |Mariana_Trillo.txt
+|	|	|	|   |Juan_Mansilla.txt
+|	|	|	|-- Aceptados
+|	|	|	|-- Rechazados
+|	|	|	|-- Histórico
+|	|	|	|	|-- Rechazados
+|   |   |   |   |   |Mariano_Barea.txt
+|   |   |   |   |   |Inocencia_Mesa.txt
+|   |   |   |   |   |Antonio_Cabrera.txt
+|   |   |   |   |   |Aylen_Olivera.txt
+|	|	|	|	|-- Aceptados
+*********************************************************************

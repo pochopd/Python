@@ -4,7 +4,7 @@
 ## 1
 # Utiliza la función int para que la suma de numero1 y numero2 sea un número entero.
 # Ejecuta el ejercicio.
-# Las respuestas deben ser
+# Las respuestas deben ser:
 # 10.
 # <class 'int'>.
 

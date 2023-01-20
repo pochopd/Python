@@ -1,0 +1,8 @@
+-- Video: Video 1.mp4
+-- Link al video: https://www.youtube.com/watch?v=eTo43qkijTo
+
+-- Continuando con el ejercicio anterior se describirán nuevos sucesos ocurridos dentro de la empresa farmacéutica que
+-- como encargados del registro de personal deberemos asentar.
+
+-- 1
+-- 

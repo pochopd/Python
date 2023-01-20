@@ -2,8 +2,7 @@
 ## Link al video: https://www.youtube.com/watch?v=VY448UWAQ_0
 
 ## 1
-# Abre una terminal y navega hasta el directorio donde hayas colocado estos ejercicios.
-# Muévete al directorio Ejercicios.
+# Abre una terminal y navega hasta el directorio Ejercicios.
 # Muévete a la carpeta Video 4.
 # Ejecuta la siguiente instrucción para ejecutar este ejercicio: python3 'Ejercicio 1.py'.
 # La respueta debe ser Bow Bow!.
