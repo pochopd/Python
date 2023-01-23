@@ -5,4 +5,59 @@
 -- como encargados del registro de personal deberemos asentar.
 
 -- 1
--- 
+-- Desde recursos humanos te informan que han recibido tres solicitudes nuevas para el turno nocturno.
+-- Los nombres de los aplicantes son: "Gisela Aviles", "Alicia Pina" y "Helena Jimenez".
+
+-- 2
+-- En la segunda ronda de entrevistas se presentaron Justo Zabala, Mariana Trillo y Juan Mansilla.
+-- Justo Zabala fue rechazado ya que no podía trabajar en turnos rotativos.
+-- Mariana Trillo cumplió con todos los requerimentos y fue contratada para el turno nocturno.
+-- Juan Mansilla fue rechazado debido a que no contaba con la formación mínima.
+
+-- 3
+-- Luego de una revisión en los archivos pudiste notar que Felix Palacios fue empleado de la empresa
+-- desde el 2015 hasta el 2018 por lo que actualizaste el registro.
+
+-- 4
+
+*********************************************************************
+-- Una vez finalizado el ejercicio la estructura es la siguiente:
+|-- ~$:
+|	|-- Empleados
+|	|	|-- Empleados actuales
+|	|	|	|-- Turno matutino
+|	|	|	|   |Paula_Garriga.txt
+|	|	|	|   |Paulo_Estevez.txt
+|	|	|	|-- Turno vespertino
+|	|	|	|   |Elizabeth_Gonzalo.txt
+|	|	|	|   |Julian_Orellana.txt
+|	|	|	|-- Turno nocturno
+|	|	|	|   |Antonio_Calero.txt
+|	|	|	|   |Mariana_Trillo.txt
+|	|	|-- Ex empleados
+|	|	|	|-- 2011 al 2020
+|   |   |   |   |Uxia_Herrera.txt
+|   |   |   |   |Elisenda_Castells.txt
+|   |   |   |   |Tamara_Sousa.txt
+|   |   |   |   |Felix_Palacios.txt
+|	|	|	|-- 2021 al 2030
+|   |   |   |   |Casimiro_Vaquero.txt
+|   |   |   |   |Avelino_Urbano.txt
+|   |   |   |   |Candelaria_Zabala.txt
+|   |   |   |   |Teodoro_Quiroga.txt
+|   |   |   |   |Paulina_Perez.txt
+|	|	|-- Aplicantes
+|	|	|	|-- Pendientes
+|	|	|	|   |Gisela Aviles.txt
+|	|	|	|   |Alicia Pina.txt
+|	|	|	|   |Helena Jimenez
+|	|	|	|-- Rechazados
+|	|	|	|   |Alejandro_Moro.txt
+|	|	|	|   |Irene_Lin.txt
+|   |   |   |   |Mariano_Barea.txt
+|   |   |   |   |Inocencia_Mesa.txt
+|   |   |   |   |Antonio_Cabrera.txt
+|   |   |   |   |Aylen_Olivera.txt
+|	|	|	|   |Juan_Mansilla.txt
+|	|	|	|   |Justo_Zabala.txt
+*********************************************************************

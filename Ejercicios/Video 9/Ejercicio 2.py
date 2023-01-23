@@ -9,7 +9,8 @@
 # En el cuerpo de la función declara una función 'print' que imprima el texto 'Hola, mi nombre es '
 # concatenando el valor de la variable nombreIngresado.
 # Ejecuta el ejercicio.
-# La respueta debe ser Hola, mi nombre es {nombre}. Donde {nombre} es el texto que hayas ingresado en consola.
+# La respueta debe ser Hola, mi nombre es {nombre}. Donde {nombre} es el texto que hayas ingresado en consola
+# luego de la sentencia: Escribe tu nombre a continuación.
 
 print('Escribe tu nombre a continuación: ')
 

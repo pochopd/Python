@@ -14,6 +14,7 @@
 # Es menor de edad.
 # Es mayor de edad.
 # Es mayor de edad. 
+# Recuerda que los datos ingresados por teclado son tomados por python en una primera instancia como strings.
 
 ######### CAMBIA SOLAMENTE LAS LÍNEAS DE CÓDIGO QUE ESTÁN DEBAJO DE ESTE COMENTARIO #########
 

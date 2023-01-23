@@ -2,7 +2,7 @@
 ## Link a los videos: https://www.youtube.com/watch?v=5Ohme4A2Weg y https://www.youtube.com/watch?v=2UNrSiKEI8w
 
 ## 1
-# Debido a que este video contiene información teórica, en este ejercicio se plantearán algunas preguntas
+# Debido a que estos videos contienen información teórica, en este ejercicio se plantearán algunas preguntas
 # que podrás responder luego de ver los videos, para ayudarte a reforzar el concepto de programación orientada a objetos.
 
 # ¿Qué significan las siglas 'POO'?.
