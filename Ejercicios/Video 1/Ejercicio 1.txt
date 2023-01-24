@@ -1,6 +1,9 @@
 -- Video: Video 1.mp4
 -- Link al video: https://www.youtube.com/watch?v=eTo43qkijTo
 
+-- Link para descargar los videos y trabajar fuera de línea:
+-- https://drive.google.com/drive/folders/1eH5_EJ_lX3PeVAiUwomhaymdqig03ufk?usp=sharing
+
 -- 1
 -- Abre un terminal y posicionate en el directorio principal de tu usuario. (usuario@equipo:~$)
 -- Crea un directorio llamado 'Personas'.
